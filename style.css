@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap');
+*{
+   box-sizing: border-box; 
+}
+body{
+    background: hsl(47, 88%, 63%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 12px;
+    font-family: 'Figtree', sans-serif;
+}
+.major {
+    background: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    width: 300px;
+    height: 420px;
+    border: 1px solid;
+    box-shadow: 5px 5px;
+}
+.main{
+    padding: 20px;
+    margin:auto;
+}
+.main #avatar{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    border-radius: 20px;
+}
+.main h5{
+    background: hsl(47, 88%, 63%);
+    padding: 10px;
+    border-radius: 5px;
+    width: 25%;
+}
+.main p:nth-child(4){
+    color: hsl(0, 0%, 7%);
+}
+.main p:nth-child(4){
+    font-size: 13px;
+    font-weight: 800;
+}
+.main p:nth-child(4):hover{
+    color: hsl(47, 88%, 63%);
+    cursor: pointer;
+}
+.main p:nth-child(5){
+    color: hsl(0, 0%, 50%);
+}
+.greg{
+    display: flex; 
+}
+.greg img{
+    width: 40px;
+    margin-right: 15px;
+}
+.greg p{
+    font-weight: 600;
+}
+.attribution{
+    position: absolute;
+    bottom: 10px;
+}
