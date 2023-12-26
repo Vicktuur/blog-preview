@@ -10,7 +10,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -28,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-custom-properties-semantic-html-markup-99Lsm4ESC)
+- Live Site URL: [Add live site URL here](https://blog-preview-tau.vercel.app)
 
 ## My process
 
@@ -37,9 +36,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- Mobile-first workflow
+- Flex
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Vicktuur)
+- Frontend Mentor - [@vicktuur](https://www.frontendmentor.io/profile/Vicktuur)
