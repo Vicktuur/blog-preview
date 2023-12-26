@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-custom-properties-semantic-html-markup-99Lsm4ESC)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/css-custom-properties-semantic-html-markup-99tLsm4ESC)
 - Live Site URL: [Add live site URL here](https://blog-preview-tau.vercel.app)
 
 ## My process
